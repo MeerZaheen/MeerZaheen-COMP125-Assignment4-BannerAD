@@ -1,0 +1,23 @@
+{
+  "name": "comp125-lesson13",
+  "version": "1.0.0",
+  "description": "## CreateJS with TypeScript",
+  "main": "index.js",
+  "dependencies": {
+    "uglify-js2": "^2.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CentennialCollege/COMP125-S2016-Lesson13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CentennialCollege/COMP125-S2016-Lesson13/issues"
+  },
+  "homepage": "https://github.com/CentennialCollege/COMP125-S2016-Lesson13#readme"
+}
